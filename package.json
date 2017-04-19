@@ -1,0 +1,23 @@
+{
+  "name": "bamazon",
+  "version": "1.0.0",
+  "description": "homework 12",
+  "main": "bamazon.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlitaKendrick/bamazon.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AlitaKendrick/bamazon/issues"
+  },
+  "homepage": "https://github.com/AlitaKendrick/bamazon#readme",
+  "dependencies": {
+    "inquirer": "^3.0.6",
+    "mysql": "^2.13.0"
+  }
+}
